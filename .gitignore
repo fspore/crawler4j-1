@@ -2,8 +2,8 @@ target/
 .DS_STORE
 .idea/*
 *.iml
-.settings/*
+#.settings/*
 javadocs/*
-.classpath
-.project
+#.classpath
+#.project
 logs/
